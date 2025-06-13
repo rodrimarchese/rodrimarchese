@@ -1,4 +1,4 @@
-# Hi, I'm Rodrigo Marchese 👋
+# Hi, I'm Rodri Marchese 👋
 
 I'm a fullstack Software Engineer who loves making products—especially the kind that automate everyday tasks and put a smile on someone's face.
 
